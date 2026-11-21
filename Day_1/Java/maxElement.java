@@ -12,7 +12,7 @@ public class maxElement {
         }
         if (arr.length == 0 || arr.length == 1) {
             System.out.println(-1);
-            return;
+
         }
         int max = arr[0];
         int smax = arr[0];

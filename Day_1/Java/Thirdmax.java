@@ -12,7 +12,7 @@ public class Thirdmax {
         }
         if (arr.length < 2) {
             System.out.println(-1);
-            return;
+
         }
         int max = Integer.MIN_VALUE;
         int smax = Integer.MIN_VALUE;
