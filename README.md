@@ -119,4 +119,16 @@ We welcome contributions! Follow these steps to make a **proper Pull Request (PR
 
 ---
 
+## 📚 Java Interview Topics
+
+Topic-wise Java interview Q&A (fresher → 2 years) lives in `Java_Interview_Questions/Java_Topic_Wise.md`.
+
+Currently available:
+
+- Topic 1 — Core Java: OOP Basics
+- Topic 2 — Core Java: JVM, Memory, and Garbage Collection
+- Topic 3 — Java Collections Framework
+
+Ask in this repo (comment or issue) or open the file directly to view the topic. When viewing the file, request "next" to get the next topic's Q&A added by the maintainer.
+
 💡 Keep solving, keep learning!
